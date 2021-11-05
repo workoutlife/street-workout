@@ -16,4 +16,4 @@ Allow: /
 User-agent: teoma
 
 
-Sitemap: https://workoutlife.githab.io/street-workout/sitemapx.xml
+Sitemap: https://workoutlife.github.io/street-workout/sitemapx.xml
